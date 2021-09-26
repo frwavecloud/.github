@@ -10,6 +10,8 @@
 * Twitter - [@FRWavecloud](https://twitter.com/frwavecloud/)
 * Discord - [discord.wavecloud.fr](https://wavecloud.fr/)
 
-> Contact: [contact@wavecloud.fr](mailto://contact@wavecloud.fr)
-> Abuse: [abuse@wavecloud.fr](mailto://abuse@wavecloud.fr)
-> Support: [support@wavecloud.fr](mailto://support@wavecloud.fr)
+`Contact:` [contact@wavecloud.fr](mailto://contact@wavecloud.fr)
+
+`Abuse:` [abuse@wavecloud.fr](mailto://abuse@wavecloud.fr)
+
+`Support:` [support@wavecloud.fr](mailto://support@wavecloud.fr)
